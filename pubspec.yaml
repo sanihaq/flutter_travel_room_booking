@@ -10,7 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
   window_manager: ^0.3.5
-
+  flutter_web_frame: 
+    git:
+      url: https://github.com/sanihaq/flutter_web_frame.git
 dev_dependencies:
   flutter_test:
     sdk: flutter
